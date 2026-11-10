@@ -88,7 +88,6 @@ Shared by the loader (`mmcblk0boot0 + 0x10400`) and the kernel `zImage`:
 
 - [Kernel RAM dump analysis](data/tot/kernel_analysis.md): memory layout, `/dev/mem` behaviour, security findings
 - [Loader and secure-boot analysis](data/tot/loader_analysis.md): boot flow, secure engine and DTB layout
-- [Linux boot notes](data/tot/linux_on_tot.md): separate follow-up experiment
 
 ## Open items
 
